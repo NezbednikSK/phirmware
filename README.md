@@ -7,4 +7,4 @@ copy `install.img` to a flash drive of your choice
 put it into your device, "update" firmware
 
 # Dependencies
-[unyaffs](https://aur.archlinux.org/packages/unyaffs), [yaffs2utils](https://aur.archlinux.org/packages/yaffs2utils)
+[unrar](https://archlinux.org/packages/extra/x86_64/unrar/), [unyaffs](https://aur.archlinux.org/packages/unyaffs), [yaffs2utils](https://aur.archlinux.org/packages/yaffs2utils)
